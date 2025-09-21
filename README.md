@@ -94,7 +94,7 @@ Refines the network through iterative message passing:
 ## **📸 Screenshots**
 
 ### Landing Page
-![Landing Page](https://github.com/user-attachments/assets/cdf67be0-96aa-47d0-92a7-48512f315dad)
+![Landing Page](https://github.com/anusha0100/LeetBuddy/blob/main/frontend/src/app/ist.png)
 
 ### Dashboard
 ![Dashboard 1](https://github.com/user-attachments/assets/e8f932e7-d618-4645-9a2a-834f0612d981)
