@@ -1,4 +1,4 @@
-# **LeetBuddy **
+# LeetBuddy 
 
 ![LeetBuddy Banner](https://github.com/anusha0100/LeetBuddy/blob/main/frontend/src/app/Banner.png)
 
