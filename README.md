@@ -1,12 +1,8 @@
-# **LeetBuddy: A Graph-Based LeetCode Question Recommender 🧭🔍**
+# **LeetBuddy **
 
-![LeetBuddy Banner](https://github.com/user-attachments/assets/de27890f-cf7e-42fa-9582-b3e0f4d5bc7b)
+![LeetBuddy Banner](https://github.com/anusha0100/LeetBuddy/blob/main/frontend/src/app/Banner.png)
 
 LeetBuddy is an intelligent, personalized question recommendation system designed specifically for LeetCode users. By leveraging advanced graph-based structures, topic modeling, and Markov Random Fields, our system analyzes user interactions, question similarities, and topic relevance to suggest the most appropriate questions for continued skill improvement and optimal learning progression. 📈
-
-## **🎥 Demo**
-
-https://github.com/user-attachments/assets/c13063e2-c943-4b51-b664-545248d37f06
 
 ## **✨ Features**
 
