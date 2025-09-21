@@ -1,6 +1,5 @@
 # LeetBuddy 
 
-![LeetBuddy Banner](https://github.com/anusha0100/LeetBuddy/blob/main/frontend/src/app/Banner.png)
 
 LeetBuddy is an intelligent, personalized question recommendation system designed specifically for LeetCode users. By leveraging advanced graph-based structures, topic modeling, and Markov Random Fields, our system analyzes user interactions, question similarities, and topic relevance to suggest the most appropriate questions for continued skill improvement and optimal learning progression. 📈
 
@@ -102,10 +101,10 @@ Refines the network through iterative message passing:
 ![Dashboard 2](https://github.com/user-attachments/assets/a9fad515-edb5-47b9-aeb5-a361f3770853)
 
 ### Recommender Engine
-![Recommender](https://github.com/user-attachments/assets/efeb391e-04ab-475f-8262-c375c7d3939e)
+![Recommender](https://github.com/anusha0100/LeetBuddy/blob/main/frontend/src/app/reccomdation%20engine.jpg)
 
 ### User Profile
-![Profile](https://github.com/user-attachments/assets/031eea4d-d9f9-4b46-887a-ab97dfa1a208)
+![Profile](https://github.com/anusha0100/LeetBuddy/blob/main/frontend/src/app/user%20profile.png)
 
 ## **🚀 Getting Started**
 
