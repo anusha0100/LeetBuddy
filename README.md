@@ -1,8 +1,8 @@
-# **LeetPath: A Graph-Based LeetCode Question Recommender 🧭🔍**
+# **LeetBuddy: A Graph-Based LeetCode Question Recommender 🧭🔍**
 
-![LeetPath Banner](https://github.com/user-attachments/assets/de27890f-cf7e-42fa-9582-b3e0f4d5bc7b)
+![LeetBuddy Banner](https://github.com/user-attachments/assets/de27890f-cf7e-42fa-9582-b3e0f4d5bc7b)
 
-LeetPath is an intelligent, personalized question recommendation system designed specifically for LeetCode users. By leveraging advanced graph-based structures, topic modeling, and Markov Random Fields, our system analyzes user interactions, question similarities, and topic relevance to suggest the most appropriate questions for continued skill improvement and optimal learning progression. 📈
+LeetBuddy is an intelligent, personalized question recommendation system designed specifically for LeetCode users. By leveraging advanced graph-based structures, topic modeling, and Markov Random Fields, our system analyzes user interactions, question similarities, and topic relevance to suggest the most appropriate questions for continued skill improvement and optimal learning progression. 📈
 
 ## **🎥 Demo**
 
@@ -161,40 +161,6 @@ python app.py
 go run main.go
 ```
 
-## **🤝 Contributing**
-
-We welcome contributions to enhance LeetPath! Here's how you can help:
-
-1. 🍴 Fork the repository
-2. 🌿 Create your feature branch (`git checkout -b feature/AmazingFeature`)
-3. 💾 Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. 📤 Push to the branch (`git push origin feature/AmazingFeature`)
-5. 🔄 Open a Pull Request
-
-### Contribution Areas
-- 🔧 Algorithm improvements
-- 🎨 UI/UX enhancements  
-- 📊 New analytics features
-- 🐛 Bug fixes and optimizations
-- 📚 Documentation improvements
-
-## **👥 Contributors**
-
-<table style="width:100%; text-align:center; border: none;">
-    <tr>
-        <td style="width:25%;"><img src="https://github.com/VishalTheHuman.png" style="width:100%; height:auto; border-radius:50%;"></td>
-        <td style="width:25%;"><img src="https://github.com/amri-tah.png" style="width:100%; height:auto; border-radius:50%;"></td>
-        <td style="width:25%;"><img src="https://github.com/yeager209904.png" style="width:100%; height:auto; border-radius:50%;"></td>
-        <td style="width:25%;"><img src="https://github.com/GiriPrasath017.png" style="width:100%; height:auto; border-radius:50%;"></td>
-    </tr>
-    <tr>
-        <td><a href="https://github.com/VishalTheHuman"><b>Vishal S</b></a><br/>@VishalTheHuman</td>
-        <td><a href="https://github.com/amri-tah"><b>Amritha Nandini</b></a><br/>@amri-tah</td>
-        <td><a href="https://github.com/yeager209904"><b>Anerud Thiyagarajan</b></a><br/>@yeager209904</td>
-        <td><a href="https://github.com/GiriPrasath017"><b>Giri Prasath R</b></a><br/>@GiriPrasath017</td>
-    </tr>
-</table>
-
 ## **📊 Project Statistics**
 
 - 📝 **Questions Analyzed**: 2000+ LeetCode problems
@@ -220,8 +186,8 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 For queries, suggestions, or support:
 
-- 📮 **Email**: [amrithanandini2003@gmail.com](mailto:amrithanandini2003@gmail.com)
-- 📮 **Email**: [vishalatmadurai@gmail.com](mailto:vishalatmadurai@gmail.com)
+- 📮 **Email**: [anusah859695@gmail.com](mailto:anusha859695@gmail.com)
+- 📮 **Email**: [techbuddy815@gmail.com](mailto:techbuddy815@gmail.com)
 - 🐛 **Issues**: [GitHub Issues](https://github.com/your-username/leetpath/issues)
 - 💬 **Discussions**: [GitHub Discussions](https://github.com/your-username/leetpath/discussions)
 
@@ -229,7 +195,7 @@ For queries, suggestions, or support:
 
 - LeetCode for providing the platform and problem set
 - Open-source community for invaluable tools and libraries
-- Contributors and beta testers for their feedback and support
+
 
 ---
 
