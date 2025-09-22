@@ -1,4 +1,4 @@
-# LeetBuddy 
+# LeetBuddy
 
 
 LeetBuddy is an intelligent, personalized question recommendation system designed specifically for LeetCode users. By leveraging advanced graph-based structures, topic modeling, and Markov Random Fields, our system analyzes user interactions, question similarities, and topic relevance to suggest the most appropriate questions for continued skill improvement and optimal learning progression. 📈
