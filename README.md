@@ -121,8 +121,8 @@ Firebase Account
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/your-username/leetpath.git
-cd leetpath
+git clone https://github.com/your-anusha0100/leetBuddy.git
+cd leetBuddy
 ```
 
 2. **Install Frontend Dependencies**
